@@ -1,0 +1,177 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "categoryID": "1",
+      "name": "Refined Steel Shoes 123",
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/11/50/car-158795__340.png",
+      "price": "849.00",
+      "status": false,
+      "quantity": "82644"
+    },
+    {
+      "id": "2",
+      "name": "Licensed Steel Soap",
+      "image": "https://cdn.pixabay.com/photo/2012/04/12/23/48/car-30990__340.png",
+      "price": "611.00",
+      "quantity": "14",
+      "categoryID": "1"
+    },
+    {
+      "id": "3",
+      "categoryID": "3",
+      "name": "Awesome Soft Fish",
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/11/48/bmw-158703__340.png",
+      "price": "633.00",
+      "status": false,
+      "quantity": 51117
+    },
+    {
+      "id": "4",
+      "categoryID": "1",
+      "name": "Gorgeous Concrete Car",
+      "image": "https://cdn.pixabay.com/photo/2012/04/12/23/47/car-30984__340.png",
+      "price": "728.00",
+      "status": false,
+      "quantity": 56
+    },
+    {
+      "id": "5",
+      "categoryID": "2",
+      "name": "Fantastic Fresh Fish",
+      "image": "https://cdn.pixabay.com/photo/2013/07/12/12/45/car-146185__340.png",
+      "price": "364.00",
+      "status": true,
+      "quantity": 7373
+    },
+    {
+      "id": "6",
+      "categoryID": "3",
+      "name": "Gorgeous Metal Soap",
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/11/48/bmw-158704__340.png",
+      "price": "654.00",
+      "status": true,
+      "quantity": 26
+    },
+    {
+      "id": "7",
+      "categoryID": "1",
+      "name": "Tasty Fresh Pizza",
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/11/44/car-158548__340.png",
+      "price": "795.00",
+      "status": true,
+      "quantity": 61
+    },
+    {
+      "id": "8",
+      "categoryID": "2",
+      "name": "Tasty Concrete Towels",
+      "image": "https://cdn.pixabay.com/photo/2012/04/13/20/37/car-33556__340.png",
+      "price": "513.00",
+      "status": false,
+      "quantity": 36
+    },
+    {
+      "id": "10",
+      "categoryID": "1",
+      "name": "Small Rubber Cheese",
+      "image": "https://cdn.pixabay.com/photo/2017/03/20/04/57/truck-2158284__340.png",
+      "price": "471.00",
+      "status": true,
+      "quantity": 42
+    },
+    {
+      "id": "11",
+      "categoryID": "2",
+      "name": "Handcrafted Soft Salad",
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/11/50/car-158795__340.png",
+      "price": "824.00",
+      "status": true,
+      "quantity": 86
+    },
+    {
+      "id": "12",
+      "categoryID": "3",
+      "name": "Licensed Steel Soap",
+      "image": "https://cdn.pixabay.com/photo/2012/04/12/23/48/car-30990__340.png",
+      "price": "611.00",
+      "status": false,
+      "quantity": 14
+    },
+    {
+      "id": "13",
+      "categoryID": "1",
+      "name": "Handmade Frozen Ball",
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/11/48/bmw-158703__340.png",
+      "price": "821.00",
+      "status": false,
+      "quantity": 64
+    },
+    {
+      "id": "14",
+      "categoryID": "2",
+      "name": "Handmade Plastic Table",
+      "image": "https://cdn.pixabay.com/photo/2012/04/12/23/47/car-30984__340.png",
+      "price": "894.00",
+      "status": true,
+      "quantity": 94
+    },
+    {
+      "id": "15",
+      "categoryID": "3",
+      "name": "Generic Fresh Gloves",
+      "image": "https://cdn.pixabay.com/photo/2013/07/12/12/45/car-146185__340.png",
+      "price": "156.00",
+      "status": false,
+      "quantity": 13
+    },
+    {
+      "id": "16",
+      "categoryID": "1",
+      "name": "Generic Soft Keyboard",
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/11/48/bmw-158704__340.png",
+      "price": "933.00",
+      "status": true,
+      "quantity": 64
+    },
+    {
+      "id": "17",
+      "categoryID": "1",
+      "name": "Intelligent Granite Table",
+      "image": "https://cdn.pixabay.com/photo/2013/07/13/11/44/car-158548__340.png",
+      "price": "694.00",
+      "status": false,
+      "quantity": 65
+    },
+    {
+      "id": "22",
+      "name": "zxc",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopcar-7515e.appspot.com/o/images%2Flogo.png?alt=media&token=b653b345-0f60-429e-8dd0-1ae83a839324",
+      "price": "900.00",
+      "quantity": "21",
+      "categoryID": "3"
+    },
+    {
+      "id": "18",
+      "name": "zxc",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopcar-7515e.appspot.com/o/images%2F90527657_3218409818208888_1562946016422920192_n.jpg?alt=media&token=89146f5f-abcd-42d4-9c44-564070aafc72",
+      "price": "900.00",
+      "quantity": "222",
+      "categoryID": "1"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Ducati"
+    },
+    {
+      "id": "2",
+      "name": "Ferrari"
+    },
+    {
+      "id": "3",
+      "name": "Audi"
+    }
+  ]
+}
